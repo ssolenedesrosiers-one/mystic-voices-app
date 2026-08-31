@@ -1,1 +1,343 @@
-fetch('data/quotes.json')
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mystic & Esoteric Quote Deck</title>
+  <style>
+    :root {
+      --bg-color: #0b0d12;
+      --card-bg: #141824;
+      --border-color: #2a3147;
+      --text-main: #e2e8f0;
+      --text-muted: #94a3b8;
+      --accent-color: #c5a059;
+      --accent-hover: #dfb76c;
+      --button-text: #0b0d12;
+    }
+
+    /* Light Theme Palette */
+    [data-theme="light"] {
+      --bg-color: #f4f1ea;
+      --card-bg: #ffffff;
+      --border-color: #d8d0c1;
+      --text-main: #2c2825;
+      --text-muted: #70685e;
+      --accent-color: #8c6d31;
+      --accent-hover: #6e5423;
+      --button-text: #ffffff;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      font-family: 'Georgia', serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      transition: background-color 0.4s ease, color 0.4s ease;
+    }
+
+    /* Top Action Bar for Toggles */
+    .top-bar {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: flex;
+      gap: 12px;
+    }
+
+    .icon-btn {
+      background: transparent;
+      border: 1px solid var(--border-color);
+      color: var(--text-main);
+      padding: 8px 14px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-family: sans-serif;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .icon-btn:hover {
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+    }
+
+    .container {
+      max-width: 650px;
+      width: 100%;
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    header h1 {
+      font-size: 1.8rem;
+      color: var(--accent-color);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 25px;
+      font-weight: normal;
+    }
+
+    .card {
+      background-color: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 40px 30px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+      position: relative;
+      min-height: 280px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      transition: background-color 0.4s ease, border-color 0.4s ease;
+    }
+
+    .quote-text {
+      font-size: 1.35rem;
+      line-height: 1.6;
+      font-style: italic;
+      margin-bottom: 20px;
+    }
+
+    .author {
+      font-size: 1rem;
+      color: var(--accent-color);
+      font-style: normal;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+
+    .meta-info {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 6px;
+      font-family: sans-serif;
+    }
+
+    .tags {
+      margin-top: 20px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .tag {
+      font-family: sans-serif;
+      font-size: 0.75rem;
+      background: rgba(197, 160, 89, 0.12);
+      color: var(--accent-color);
+      border: 1px solid rgba(197, 160, 89, 0.3);
+      padding: 4px 10px;
+      border-radius: 20px;
+    }
+
+    .controls {
+      margin-top: 30px;
+    }
+
+    .draw-btn {
+      background-color: var(--accent-color);
+      color: var(--button-text);
+      border: none;
+      padding: 12px 28px;
+      font-size: 0.95rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.2s ease, transform 0.1s ease;
+    }
+
+    .draw-btn:hover {
+      background-color: var(--accent-hover);
+    }
+
+    .draw-btn:active {
+      transform: scale(0.98);
+    }
+
+    .counter {
+      margin-top: 15px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+<body data-theme="dark">
+
+  <div class="top-bar">
+    <button class="icon-btn" id="audio-toggle" onclick="toggleAmbientAudio()">
+      <span>🔊</span> <span id="audio-label">Ambient Sound</span>
+    </button>
+    <button class="icon-btn" id="theme-toggle" onclick="toggleTheme()">
+      <span id="theme-icon">☀️</span> <span id="theme-label">Light Mode</span>
+    </button>
+  </div>
+
+  <div class="container">
+    <header>
+      <h1>Inner Sanctuary</h1>
+    </header>
+
+    <div class="card" id="quote-card">
+      <div class="quote-text" id="quote-text">Loading reflection...</div>
+      <div class="author" id="author-text"></div>
+      <div class="meta-info" id="meta-text"></div>
+      <div class="tags" id="tags-container"></div>
+    </div>
+
+    <div class="controls">
+      <button class="draw-btn" id="next-btn" onclick="getRandomQuote()">Draw Reflection</button>
+    </div>
+
+    <div class="counter" id="counter"></div>
+  </div>
+
+  <script>
+    let quotes = [];
+
+    // Fetch the JSON file
+    fetch('data/quotes.json')
+      .then(response => {
+        if (!response.ok) throw new Error('Network response failed');
+        return response.json();
+      })
+      .then(data => {
+        quotes = data;
+        getRandomQuote();
+      })
+      .catch(error => {
+        console.error('Error loading quotes:', error);
+        document.getElementById('quote-text').innerText = "Could not load quotes. Please check data/quotes.json.";
+      });
+
+    function getRandomQuote() {
+      if (quotes.length === 0) return;
+      
+      const randomIndex = Math.floor(Math.random() * quotes.length);
+      const item = quotes[randomIndex];
+
+      document.getElementById('quote-text').innerText = `“${item.quote}”`;
+      document.getElementById('author-text').innerText = item.author;
+      
+      let meta = [];
+      if (item.tradition) meta.push(item.tradition);
+      if (item.era) meta.push(item.era);
+      document.getElementById('meta-text').innerText = meta.join(' • ');
+
+      const tagsContainer = document.getElementById('tags-container');
+      tagsContainer.innerHTML = '';
+      if (item.themes && item.themes.length > 0) {
+        item.themes.forEach(theme => {
+          const tag = document.createElement('span');
+          tag.className = 'tag';
+          tag.innerText = theme;
+          tagsContainer.appendChild(tag);
+        });
+      }
+
+      document.getElementById('counter').innerText = `Quote #${item.id} of ${quotes.length}`;
+    }
+
+    // --- Theme Toggle Logic ---
+    function toggleTheme() {
+      const body = document.body;
+      const isDark = body.getAttribute('data-theme') === 'dark';
+      
+      if (isDark) {
+        body.setAttribute('data-theme', 'light');
+        document.getElementById('theme-icon').innerText = '🌙';
+        document.getElementById('theme-label').innerText = 'Dark Mode';
+      } else {
+        body.setAttribute('data-theme', 'dark');
+        document.getElementById('theme-icon').innerText = '☀️';
+        document.getElementById('theme-label').innerText = 'Light Mode';
+      }
+    }
+
+    // --- Built-in Web Audio Ambient Drone ---
+    let audioCtx = null;
+    let osc1 = null;
+    let osc2 = null;
+    let masterGain = null;
+    let isPlayingAudio = false;
+
+    function toggleAmbientAudio() {
+      if (!isPlayingAudio) {
+        startAmbientDrone();
+        document.getElementById('audio-label').innerText = 'Sound: On';
+        isPlayingAudio = true;
+      } else {
+        stopAmbientDrone();
+        document.getElementById('audio-label').innerText = 'Ambient Sound';
+        isPlayingAudio = false;
+      }
+    }
+
+    function startAmbientDrone() {
+      if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      }
+
+      // Master Gain for smooth volume control
+      masterGain = audioCtx.createGain();
+      masterGain.gain.setValueAtTime(0.01, audioCtx.currentTime);
+      masterGain.gain.exponentialRampToValueAtTime(0.15, audioCtx.currentTime + 2); // Fade in over 2s
+
+      // Low Warm Drone Oscillators (Root + Fifth in low register)
+      osc1 = audioCtx.createOscillator();
+      osc2 = audioCtx.createOscillator();
+
+      osc1.type = 'sine';
+      osc1.frequency.setValueAtTime(108, audioCtx.currentTime); // Low A
+
+      osc2.type = 'triangle';
+      osc2.frequency.setValueAtTime(162, audioCtx.currentTime); // E (harmonic fifth)
+
+      // Low pass filter to soften the tone
+      const filter = audioCtx.createBiquadFilter();
+      filter.type = 'lowpass';
+      filter.frequency.setValueAtTime(250, audioCtx.currentTime);
+
+      osc1.connect(filter);
+      osc2.connect(filter);
+      filter.connect(masterGain);
+      masterGain.connect(audioCtx.destination);
+
+      osc1.start();
+      osc2.start();
+    }
+
+    function stopAmbientDrone() {
+      if (masterGain && audioCtx) {
+        // Fade out over 1 second before stopping
+        masterGain.gain.setValueAtTime(masterGain.gain.value, audioCtx.currentTime);
+        masterGain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 1);
+        setTimeout(() => {
+          if (osc1) osc1.stop();
+          if (osc2) osc2.stop();
+        }, 1000);
+      }
+    }
+  </script>
+
+</body>
+</html>
