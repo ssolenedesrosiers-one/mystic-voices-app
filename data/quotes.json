@@ -1200,6 +1200,808 @@
     "tradition": "Hermeticism",
     "era": "Ancient",
     "themes": ["Mystery", "Embodiment", "Gnosis"]
+  },
+[
+  {
+    "id": 151,
+    "quote": "The soul is created in a place between time and eternity.",
+    "author": "Meister Eckhart",
+    "tradition": "Christian Mysticism",
+    "era": "14th Century",
+    "themes": ["Eternity", "The Soul", "Thresholds"]
+  },
+  {
+    "id": 152,
+    "quote": "All wave forms are merely movements of the one quiet ocean.",
+    "author": "Kashmir Shaivism Axiom",
+    "tradition": "Kashmir Shaivism",
+    "era": "9th Century",
+    "themes": ["Non-Duality", "Cosmic Consciousness", "Unity"]
+  },
+  {
+    "id": 153,
+    "quote": "In order to find the light, you must be willing to pass through the deepest dark.",
+    "author": "St. John of the Cross",
+    "tradition": "Christian Mysticism",
+    "era": "16th Century",
+    "themes": ["Dark Night", "Transformation", "Illumination"]
+  },
+  {
+    "id": 154,
+    "quote": "Let what comes come, let what goes go. Find out what remains.",
+    "author": "Ramana Maharshi",
+    "tradition": "Advaita Vedanta",
+    "era": "20th Century",
+    "themes": ["Detachment", "Self-Inquiry", "Presence"]
+  },
+  {
+    "id": 155,
+    "quote": "I am the rose of Sharon, and the lily of the valleys.",
+    "author": "Song of Solomon 2:1",
+    "tradition": "Judeo-Christian Mysticism",
+    "era": "Ancient",
+    "themes": ["Sacred Beauty", "Divine Beloved", "Symbolism"]
+  },
+  {
+    "id": 156,
+    "quote": "When the illusion of separation vanishes, compassion arises naturally.",
+    "author": "Buddha",
+    "tradition": "Buddhism",
+    "era": "5th Century BCE",
+    "themes": ["Non-Duality", "Compassion", "Awakening"]
+  },
+  {
+    "id": 157,
+    "quote": "The divine artist paints not on canvas, but upon the human heart.",
+    "author": "Sufi Reflection",
+    "tradition": "Sufism",
+    "era": "Traditional",
+    "themes": ["Heart-Centered", "Divine Creation", "Artistry"]
+  },
+  {
+    "id": 158,
+    "quote": "Shadow and light are two sides of the same sacred tapestry.",
+    "author": "Hermetic Axiom",
+    "tradition": "Hermeticism",
+    "era": "Traditional",
+    "themes": ["Polarity", "Shadow Work", "Integration"]
+  },
+  {
+    "id": 159,
+    "quote": "Break open your heart so that the world can enter.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Vulnerability", "Love", "Opening"]
+  },
+  {
+    "id": 160,
+    "quote": "To touch the infinite, one must step out of time.",
+    "author": "Plotinus",
+    "tradition": "Neoplatonism",
+    "era": "3rd Century",
+    "themes": ["The Infinite", "Timelessness", "Transcendence"]
+  },
+  {
+    "id": 161,
+    "quote": "Your inner light does not shine for you alone; it illuminates the path for others.",
+    "author": "Gnostic Proverb",
+    "tradition": "Gnosticism",
+    "era": "Ancient",
+    "themes": ["Inner Light", "Service", "Illumination"]
+  },
+  {
+    "id": 162,
+    "quote": "The root of all desire is the longing to return to the source.",
+    "author": "Ibn Arabi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Divine Longing", "Origin", "Return"]
+  },
+  {
+    "id": 163,
+    "quote": "Nothing is lost, nothing is created, everything is transformed.",
+    "author": "Alchemical Law",
+    "tradition": "Western Alchemy",
+    "era": "Traditional",
+    "themes": ["Alchemical Transformation", "Eternity", "Change"]
+  },
+  {
+    "id": 164,
+    "quote": "Silence is not the absence of sound, but the presence of the divine.",
+    "author": "Julian of Norwich",
+    "tradition": "Christian Mysticism",
+    "era": "14th Century",
+    "themes": ["Silence", "Divine Presence", "Sacred Space"]
+  },
+  {
+    "id": 165,
+    "quote": "Look into the mirror of your own spirit until you see only light.",
+    "author": "Hafiz",
+    "tradition": "Sufism",
+    "era": "14th Century",
+    "themes": ["Inner Light", "Divine Mirror", "Self-Realization"]
+  },
+  {
+    "id": 166,
+    "quote": "The key to the secret door is hidden in plain view.",
+    "author": "Kabbalistic Saying",
+    "tradition": "Kabbalah",
+    "era": "Traditional",
+    "themes": ["Mystery", "Perception", "Revelation"]
+  },
+  {
+    "id": 167,
+    "quote": "Do not resist the tide of transformation; surrender to the current.",
+    "author": "Lao Tzu",
+    "tradition": "Taoism",
+    "era": "6th Century BCE",
+    "themes": ["Surrender", "Flow", "Transformation"]
+  },
+  {
+    "id": 168,
+    "quote": "In the depth of your soul sits an ancient, knowing eye.",
+    "author": "Celtic Spiritual Maxim",
+    "tradition": "Celtic Mysticism",
+    "era": "Traditional",
+    "themes": ["Intuition", "Inner Depth", "Ancestral Wisdom"]
+  },
+  {
+    "id": 169,
+    "quote": "The universe is an interwoven web where every strand reflects the whole.",
+    "author": "Indra's Net / Avatamsaka Sutra",
+    "tradition": "Mahayana Buddhism",
+    "era": "3rd Century",
+    "themes": ["Interconnection", "Cosmic Web", "Microcosm"]
+  },
+  {
+    "id": 170,
+    "quote": "Surrender is not weakness; it is the courage to release control to the sacred.",
+    "author": "St. Teresa of Ávila",
+    "tradition": "Christian Mysticism",
+    "era": "16th Century",
+    "themes": ["Surrender", "Courage", "Trust"]
+  },
+  {
+    "id": 171,
+    "quote": "The path is not made by walking; the path is revealed as you step forward.",
+    "author": "Antonio Machado / Mystical Synthesis",
+    "tradition": "Visionary Poetry",
+    "era": "20th Century",
+    "themes": ["The Journey", "Faith", "Action"]
+  },
+  {
+    "id": 172,
+    "quote": "The true temple has no walls, no roof, and no boundary.",
+    "author": "Taoist Maxim",
+    "tradition": "Taoism",
+    "era": "Traditional",
+    "themes": ["Unlimited Consciousness", "Sacred Space", "Boundless"]
+  },
+  {
+    "id": 173,
+    "quote": "Beyond the veil of fear lies the sanctuary of peace.",
+    "author": "Gnostic Insight",
+    "tradition": "Gnosticism",
+    "era": "2nd Century",
+    "themes": ["Peace", "Overcoming Fear", "Sanctuary"]
+  },
+  {
+    "id": 174,
+    "quote": "What you seek has been holding you since before you were born.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Divine Embrace", "Origin", "Grace"]
+  },
+  {
+    "id": 175,
+    "quote": "The heart that breaks open becomes a vessel for divine nectar.",
+    "author": "Kabir",
+    "tradition": "Bhakti / Indian Mysticism",
+    "era": "15th Century",
+    "themes": ["Vulnerability", "Devotion", "Receptivity"]
+  },
+  {
+    "id": 176,
+    "quote": "Wisdom begins when you embrace the shadow as part of your light.",
+    "author": "Carl Jung",
+    "tradition": "Modern Transpersonal Mysticism",
+    "era": "20th Century",
+    "themes": ["Shadow Work", "Integration", "Wisdom"]
+  },
+  {
+    "id": 177,
+    "quote": "Be clear as glass, still as water, and open as the sky.",
+    "author": "Zen Teaching",
+    "tradition": "Zen Buddhism",
+    "era": "Traditional",
+    "themes": ["Clarity", "Stillness", "Openness"]
+  },
+  {
+    "id": 178,
+    "quote": "The flame that burns inside you is fueled by the eternal spirit.",
+    "author": "The Zohar",
+    "tradition": "Kabbalah",
+    "era": "13th Century",
+    "themes": ["Divine Spark", "Inner Flame", "Spirit"]
+  },
+  {
+    "id": 179,
+    "quote": "Knowledge speaks, but wisdom listens.",
+    "author": "Jimi Hendrix / Modern Wisdom Axiom",
+    "tradition": "Modern Esoterica",
+    "era": "20th Century",
+    "themes": ["Listening", "Wisdom", "Humility"]
+  },
+  {
+    "id": 180,
+    "quote": "Every soul is a seed planted in the soil of eternity.",
+    "author": "Paracelsus",
+    "tradition": "Western Alchemy",
+    "era": "16th Century",
+    "themes": ["The Soul", "Eternity", "Potential"]
+  },
+  {
+    "id": 181,
+    "quote": "In the presence of love, all darkness dissolves.",
+    "author": "Meister Eckhart",
+    "tradition": "Christian Mysticism",
+    "era": "14th Century",
+    "themes": ["Love", "Illumination", "Transcendence"]
+  },
+  {
+    "id": 182,
+    "quote": "You are the observer of the storm, not the storm itself.",
+    "author": "Nisargadatta Maharaj",
+    "tradition": "Advaita Vedanta",
+    "era": "20th Century",
+    "themes": ["The Witness", "Awareness", "Detachment"]
+  },
+  {
+    "id": 183,
+    "quote": "The divine breath flows through every creature, every leaf, every stone.",
+    "author": "Hildegard von Bingen",
+    "tradition": "Christian Mysticism",
+    "era": "12th Century",
+    "themes": ["Immanence", "Nature", "Sacred Breath"]
+  },
+  {
+    "id": 184,
+    "quote": "When you step out of the mind, you step into the universe.",
+    "author": "Sufi Maxim",
+    "tradition": "Sufism",
+    "era": "Traditional",
+    "themes": ["Beyond Mind", "Cosmic Identity", "Awareness"]
+  },
+  {
+    "id": 185,
+    "quote": "Truth is a pathless land.",
+    "author": "Jiddu Krishnamurti",
+    "tradition": "Modern Spiritual Philosophy",
+    "era": "20th Century",
+    "themes": ["Truth", "Direct Experience", "Freedom"]
+  },
+  {
+    "id": 186,
+    "quote": "Hold fast to the quiet stillness in the center of your being.",
+    "author": "Lao Tzu",
+    "tradition": "Taoism",
+    "era": "6th Century BCE",
+    "themes": ["The Still Point", "Inner Refuge", "Center"]
+  },
+  {
+    "id": 187,
+    "quote": "The light you give to others returns to illuminate your own path.",
+    "author": "Attar of Nishapur",
+    "tradition": "Sufism",
+    "era": "12th Century",
+    "themes": ["Karma", "Light", "Reciprocity"]
+  },
+  {
+    "id": 188,
+    "quote": "Step through the threshold of fear into the realm of grace.",
+    "author": "Gospel of Mary Magdalene",
+    "tradition": "Gnosticism",
+    "era": "2nd Century",
+    "themes": ["Thresholds", "Grace", "Fearlessness"]
+  },
+  {
+    "id": 189,
+    "quote": "There is a silent wisdom that resides deeper than thought.",
+    "author": "Eckhart Tolle",
+    "tradition": "Modern Transpersonal Mysticism",
+    "era": "21st Century",
+    "themes": ["Beyond Thought", "Silence", "Intuition"]
+  },
+  {
+    "id": 190,
+    "quote": "The mirror reflects the face, but the spirit reflects the divine.",
+    "author": "Hermetic Reflection",
+    "tradition": "Hermeticism",
+    "era": "Ancient",
+    "themes": ["Spirit", "Divine Mirror", "Perception"]
+  },
+  {
+    "id": 191,
+    "quote": "To understand the universe, listen to the whisper of your own heart.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Microcosm", "Heart-Centered", "Cosmic Wisdom"]
+  },
+  {
+    "id": 192,
+    "quote": "Awaken from the dream of separateness.",
+    "author": "Ashtavakra Gita",
+    "tradition": "Advaita Vedanta",
+    "era": "Ancient",
+    "themes": ["Awakening", "Non-Duality", "Illusion"]
+  },
+  {
+    "id": 193,
+    "quote": "The soul's deep longing is the compass pointing toward home.",
+    "author": "Hafiz",
+    "tradition": "Sufism",
+    "era": "14th Century",
+    "themes": ["Divine Longing", "The Soul", "Calling"]
+  },
+  {
+    "id": 194,
+    "quote": "In the sanctuary of quietness, truth reveals itself effortlessly.",
+    "author": "Taoist Reflection",
+    "tradition": "Taoism",
+    "era": "Traditional",
+    "themes": ["Silence", "Truth", "Effortlessness"]
+  },
+  {
+    "id": 195,
+    "quote": "We carry inside us the wonders we seek outside us.",
+    "author": "Sir Thomas Browne",
+    "tradition": "Western Esoterica",
+    "era": "17th Century",
+    "themes": ["Inner Realm", "Wholeness", "Microcosm"]
+  },
+  {
+    "id": 196,
+    "quote": "Every ending contains the subtle seed of a new beginning.",
+    "author": "Alchemical Axiom",
+    "tradition": "Western Alchemy",
+    "era": "Traditional",
+    "themes": ["Cycles", "Rebirth", "Genesis"]
+  },
+  {
+    "id": 197,
+    "quote": "Love is the ultimate alchemy that turns lead into gold.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Love", "Alchemical Transformation", "Transmutation"]
+  },
+  {
+    "id": 198,
+    "quote": "The soul is an eternal pilgrim seeking the divine source.",
+    "author": "Plotinus",
+    "tradition": "Neoplatonism",
+    "era": "3rd Century",
+    "themes": ["The Soul", "Pilgrimage", "Return"]
+  },
+  {
+    "id": 199,
+    "quote": "In stillness, know that you are one with all creation.",
+    "author": "Psalm Reflection / Mystic Tradition",
+    "tradition": "Universal Mysticism",
+    "era": "Traditional",
+    "themes": ["Stillness", "Unity", "Divine Presence"]
+  },
+  {
+    "id": 200,
+    "quote": "You are the ancient light observing its own reflection.",
+    "author": "Hermetic & Advaita Synthesis",
+    "tradition": "Universal Non-Duality",
+    "era": "Traditional",
+    "themes": ["Cosmic Consciousness", "The Witness", "Inner Light"]
+  }
+],
+  {
+    "id": 201,
+    "quote": "The eye through which I see God is the same eye through which God sees me.",
+    "author": "Meister Eckhart",
+    "tradition": "Christian Mysticism",
+    "era": "14th Century",
+    "themes": ["Non-Duality", "Divine Eye", "Unity"]
+  },
+  {
+    "id": 202,
+    "quote": "In the cave you fear to enter lies the treasure you seek.",
+    "author": "Joseph Campbell",
+    "tradition": "Mythological Mysticism",
+    "era": "20th Century",
+    "themes": ["Shadow Work", "The Journey", "Transformation"]
+  },
+  {
+    "id": 203,
+    "quote": "The supreme art is to wake up, to feel human and to be alive.",
+    "author": "Okakura Kakuzo",
+    "tradition": "Zen / Eastern Aesthetics",
+    "era": "20th Century",
+    "themes": ["Awakening", "Presence", "Art of Living"]
+  },
+  {
+    "id": 204,
+    "quote": "Light is the shadow of God.",
+    "author": "Plato",
+    "tradition": "Platonism",
+    "era": "4th Century BCE",
+    "themes": ["Illumination", "Divine Shadow", "Form"]
+  },
+  {
+    "id": 205,
+    "quote": "When the mind is quiet, the heart begins to sing.",
+    "author": "Sufi Wisdom",
+    "tradition": "Sufism",
+    "era": "Traditional",
+    "themes": ["Stillness", "Heart-Centered", "Joy"]
+  },
+  {
+    "id": 206,
+    "quote": "He who knows others is wise; he who knows himself is enlightened.",
+    "author": "Lao Tzu",
+    "tradition": "Taoism",
+    "era": "6th Century BCE",
+    "themes": ["Self-Knowledge", "Enlightenment", "Wisdom"]
+  },
+  {
+    "id": 207,
+    "quote": "The sacred is not far away; it is breathing in your own chest.",
+    "author": "Kabir",
+    "tradition": "Bhakti / Indian Mysticism",
+    "era": "15th Century",
+    "themes": ["Immanence", "Sacred Breath", "Presence"]
+  },
+  {
+    "id": 208,
+    "quote": "To see a World in a Grain of Sand, and a Heaven in a Wild Flower.",
+    "author": "William Blake",
+    "tradition": "Visionary Romanticism",
+    "era": "18th Century",
+    "themes": ["Microcosm", "Eternity", "Sacred Beauty"]
+  },
+  {
+    "id": 209,
+    "quote": "You are not a drop in the ocean. You are the entire ocean in a drop.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Cosmic Consciousness", "Microcosm", "Wholeness"]
+  },
+  {
+    "id": 210,
+    "quote": "The soul knows how to heal itself; the challenge is to silence the mind.",
+    "author": "Caroline Myss",
+    "tradition": "Modern Energy Mysticism",
+    "era": "20th Century",
+    "themes": ["Inner Healing", "Silence", "The Soul"]
+  },
+  {
+    "id": 211,
+    "quote": "Out beyond ideas of wrongdoing and rightdoing there is a field. I'll meet you there.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Beyond Duality", "Love", "The Field"]
+  },
+  {
+    "id": 212,
+    "quote": "Consciousness is the stage upon which the entire universe dances.",
+    "author": "Kashmir Shaivism Maxim",
+    "tradition": "Kashmir Shaivism",
+    "era": "10th Century",
+    "themes": ["Cosmic Dance", "Awareness", "Non-Duality"]
+  },
+  {
+    "id": 213,
+    "quote": "The veil that hides the truth is woven by your own thoughts.",
+    "author": "Gnostic Wisdom",
+    "tradition": "Gnosticism",
+    "era": "2nd Century",
+    "themes": ["Illusion", "Thought", "Revelation"]
+  },
+  {
+    "id": 214,
+    "quote": "As above, so below; as within, so without.",
+    "author": "The Emerald Tablet",
+    "tradition": "Hermeticism",
+    "era": "Ancient",
+    "themes": ["Hermetic Law", "Correspondence", "Microcosm"]
+  },
+  {
+    "id": 215,
+    "quote": "Silence is the language of God, all else is a poor translation.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Silence", "Divine Language", "Transcendence"]
+  },
+  {
+    "id": 216,
+    "quote": "The wound is the place where the Light enters you.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Inner Healing", "Illumination", "Grace"]
+  },
+  {
+    "id": 217,
+    "quote": "Be still and know that I am.",
+    "author": "Psalm 46:10 / Mystical Core",
+    "tradition": "Judeo-Christian Mysticism",
+    "era": "Ancient",
+    "themes": ["Stillness", "I AM", "Divine Presence"]
+  },
+  {
+    "id": 218,
+    "quote": "The quieter you become, the more you are able to hear.",
+    "author": "Ram Dass",
+    "tradition": "Modern Transpersonal Mysticism",
+    "era": "20th Century",
+    "themes": ["Listening", "Silence", "Intuition"]
+  },
+  {
+    "id": 219,
+    "quote": "Do not seek the footprints of the ancients; seek what they sought.",
+    "author": "Matsuo Bashō",
+    "tradition": "Zen / Visionary Poetry",
+    "era": "17th Century",
+    "themes": ["Direct Experience", "Wisdom", "The Journey"]
+  },
+  {
+    "id": 220,
+    "quote": "All things are full of divine light if only you have eyes to see.",
+    "author": "Hildegard von Bingen",
+    "tradition": "Christian Mysticism",
+    "era": "12th Century",
+    "themes": ["Inner Light", "Perception", "Sacred Beauty"]
+  },
+  {
+    "id": 221,
+    "quote": "The self is not something ready-made, but something in continuous formation.",
+    "author": "Alchemical Philosophy",
+    "tradition": "Western Alchemy",
+    "era": "16th Century",
+    "themes": ["Alchemical Transformation", "The Self", "Evolution"]
+  },
+  {
+    "id": 222,
+    "quote": "Nothing in the universe can stop you from letting go.",
+    "author": "Guy Finley",
+    "tradition": "Modern Spiritual Philosophy",
+    "era": "21st Century",
+    "themes": ["Surrender", "Freedom", "Detachment"]
+  },
+  {
+    "id": 223,
+    "quote": "The universe does not hurry, yet everything is accomplished.",
+    "author": "Lao Tzu",
+    "tradition": "Taoism",
+    "era": "6th Century BCE",
+    "themes": ["Flow", "Patience", "Divine Timing"]
+  },
+  {
+    "id": 224,
+    "quote": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Love", "Inner Barriers", "Shadow Work"]
+  },
+  {
+    "id": 225,
+    "quote": "In the kingdom of spirit, giving and receiving are the exact same breath.",
+    "author": "A Course in Miracles",
+    "tradition": "Modern Non-Duality",
+    "era": "20th Century",
+    "themes": ["Reciprocity", "Unity", "Sacred Breath"]
+  },
+  {
+    "id": 226,
+    "quote": "Look deep into nature, and then you will understand everything better.",
+    "author": "Albert Einstein / Modern Synthesis",
+    "tradition": "Cosmic Mysticism",
+    "era": "20th Century",
+    "themes": ["Nature", "Cosmic Wisdom", "Observation"]
+  },
+  {
+    "id": 227,
+    "quote": "What you are seeking is looking through your eyes right now.",
+    "author": "Francis Lucille",
+    "tradition": "Advaita Vedanta / Direct Path",
+    "era": "21st Century",
+    "themes": ["The Witness", "Awareness", "Direct Experience"]
+  },
+  {
+    "id": 228,
+    "quote": "Depth of soul is revealed not in light alone, but in how gracefully one carries the dark.",
+    "author": "Sarah Moon Inspiration",
+    "tradition": "Visual & Poetic Esoterica",
+    "era": "20th Century",
+    "themes": ["Shadow Work", "Depth", "Grace"]
+  },
+  {
+    "id": 229,
+    "quote": "He who holds the key to the inner chamber needs no outer gate.",
+    "author": "Kabbalistic Maxim",
+    "tradition": "Kabbalah",
+    "era": "Traditional",
+    "themes": ["Inner Refuge", "Mystery", "Sovereignty"]
+  },
+  {
+    "id": 230,
+    "quote": "Let the beauty of what you love be what you do.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Sacred Beauty", "Artistry", "Devotion"]
+  },
+  {
+    "id": 231,
+    "quote": "The heart is the sanctuary where light and shadow meet in sacred union.",
+    "author": "Chiaroscuro Contemplation",
+    "tradition": "Symbolic Art & Mysticism",
+    "era": "Traditional",
+    "themes": ["Heart-Centered", "Polarity", "Integration"]
+  },
+  {
+    "id": 232,
+    "quote": "Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.",
+    "author": "Zen Proverb",
+    "tradition": "Zen Buddhism",
+    "era": "Traditional",
+    "themes": ["Presence", "Everyday Sacred", "Simplicity"]
+  },
+  {
+    "id": 233,
+    "quote": "The dark night of the soul is merely the womb of a greater dawn.",
+    "author": "St. John of the Cross",
+    "tradition": "Christian Mysticism",
+    "era": "16th Century",
+    "themes": ["Dark Night", "Rebirth", "Hope"]
+  },
+  {
+    "id": 234,
+    "quote": "There is a voice that doesn't use words. Listen.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Intuition", "Beyond Words", "Silence"]
+  },
+  {
+    "id": 235,
+    "quote": "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves.",
+    "author": "Nisargadatta Maharaj",
+    "tradition": "Advaita Vedanta",
+    "era": "20th Century",
+    "themes": ["Wisdom", "Love", "Non-Duality"]
+  },
+  {
+    "id": 236,
+    "quote": "The universe is built on harmony, rhythm, and sacred geometry.",
+    "author": "Pythagorean Hermeticism",
+    "tradition": "Hermeticism",
+    "era": "Ancient",
+    "themes": ["Sacred Geometry", "Cosmic Web", "Harmony"]
+  },
+  {
+    "id": 237,
+    "quote": "Step lightly upon the earth, for every step touches holy ground.",
+    "author": "Indigenous Wisdom Synthesis",
+    "tradition": "Earth Mysticism",
+    "era": "Traditional",
+    "themes": ["Sacred Space", "Reverence", "Earth"]
+  },
+  {
+    "id": 238,
+    "quote": "The mind is a mirror; wipe away the dust to reveal the clear light.",
+    "author": "Huineng",
+    "tradition": "Zen Buddhism",
+    "era": "7th Century",
+    "themes": ["Clarity", "Inner Light", "Mindfulness"]
+  },
+  {
+    "id": 239,
+    "quote": "Desire nothing, release everything, remain as you are.",
+    "author": "Ramana Maharshi",
+    "tradition": "Advaita Vedanta",
+    "era": "20th Century",
+    "themes": ["Detachment", "Presence", "Being"]
+  },
+  {
+    "id": 240,
+    "quote": "To transform the metal of the self into gold, one must endure the fire.",
+    "author": "Alchemical Maxim",
+    "tradition": "Western Alchemy",
+    "era": "Traditional",
+    "themes": ["Alchemical Transformation", "Purification", "Fire"]
+  },
+  {
+    "id": 241,
+    "quote": "In the depths of winter, I finally learned that within me there lay an invincible summer.",
+    "author": "Albert Camus",
+    "tradition": "Modern Existential Mysticism",
+    "era": "20th Century",
+    "themes": ["Inner Resilience", "Hope", "Depth"]
+  },
+  {
+    "id": 242,
+    "quote": "The eternal divine spark resides within every human heart.",
+    "author": "Gnostic Master",
+    "tradition": "Gnosticism",
+    "era": "2nd Century",
+    "themes": ["Divine Spark", "Inner Light", "The Soul"]
+  },
+  {
+    "id": 243,
+    "quote": "When you realize nothing is lacking, the whole world belongs to you.",
+    "author": "Lao Tzu",
+    "tradition": "Taoism",
+    "era": "6th Century BCE",
+    "themes": ["Wholeness", "Abundance", "Contentment"]
+  },
+  {
+    "id": 244,
+    "quote": "In the stillness of contemplation, secret doors swing wide open.",
+    "author": "Teresa of Ávila",
+    "tradition": "Christian Mysticism",
+    "era": "16th Century",
+    "themes": ["Contemplation", "Mystery", "Revelation"]
+  },
+  {
+    "id": 245,
+    "quote": "The thread of fate is woven with threads of love and choice.",
+    "author": "Neoplatonic Thought",
+    "tradition": "Neoplatonism",
+    "era": "3rd Century",
+    "themes": ["Fate", "Love", "Interconnection"]
+  },
+  {
+    "id": 246,
+    "quote": "You are the space in which all experiences arise and pass away.",
+    "author": "Eckhart Tolle",
+    "tradition": "Modern Transpersonal Mysticism",
+    "era": "21st Century",
+    "themes": ["Awareness", "Space", "The Witness"]
+  },
+  {
+    "id": 247,
+    "quote": "The sacred veil does not hide the truth; it protects the unprepared from its blinding clarity.",
+    "author": "Esoteric Saying",
+    "tradition": "Universal Esoterica",
+    "era": "Traditional",
+    "themes": ["Mystery", "Thresholds", "Perception"]
+  },
+  {
+    "id": 248,
+    "quote": "Love is the bridge between you and everything.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Love", "Connection", "Unity"]
+  },
+  {
+    "id": 249,
+    "quote": "Listen to the quiet pulse of existence beneath the surface noise.",
+    "author": "Taoist Reflection",
+    "tradition": "Taoism",
+    "era": "Traditional",
+    "themes": ["Silence", "Presence", "Cosmic Web"]
+  },
+  {
+    "id": 250,
+    "quote": "You are the light, the mirror, and the reflection all at once.",
+    "author": "Non-Dual Synthesis",
+    "tradition": "Universal Non-Duality",
+    "era": "Traditional",
+    "themes": ["Cosmic Consciousness", "Non-Duality", "Wholeness"]
   }
 ]
 
