@@ -2002,6 +2002,406 @@
     "tradition": "Universal Non-Duality",
     "era": "Traditional",
     "themes": ["Cosmic Consciousness", "Non-Duality", "Wholeness"]
+  },
+  {
+    "id": 51,
+    "quote": "If the only prayer you ever say in your entire life is thank you, it will be enough.",
+    "author": "Meister Eckhart",
+    "tradition": "Christian Mysticism",
+    "era": "14th Century",
+    "themes": ["Gratitude", "Prayer", "Simplicity"]
+  },
+  {
+    "id": 52,
+    "quote": "Lo, I am with you always, even unto the end of the world.",
+    "author": "Gospel of Matthew 28:20",
+    "tradition": "Christian Mysticism",
+    "era": "1st Century",
+    "themes": ["Divine Presence", "Eternity", "Comfort"]
+  },
+  {
+    "id": 53,
+    "quote": "The truth is not something outside to be sought, but something inside to be revealed.",
+    "author": "Ibn Arabi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Inner Truth", "Revelation", "Self-Inquiry"]
+  },
+  {
+    "id": 54,
+    "quote": "When you do things from your soul, you feel a river moving in you, a joy.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Soul Work", "Joy", "Flow"]
+  },
+  {
+    "id": 55,
+    "quote": "Great is the matter of birth and death. Life flows quickly past and time is lost. Awake, arise, each one! Do not squander your life.",
+    "author": "Zen Evening Gatha",
+    "tradition": "Zen Buddhism",
+    "era": "Traditional",
+    "themes": ["Impermanence", "Awakening", "Urgency"]
+  },
+  {
+    "id": 56,
+    "quote": "The light is in all things, and all things are in the light.",
+    "author": "The Zohar",
+    "tradition": "Kabbalah",
+    "era": "13th Century",
+    "themes": ["Divine Spark", "Omnipresence", "Illumination"]
+  },
+  {
+    "id": 57,
+    "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+    "author": "Albert Camus",
+    "tradition": "Existential / Modern Wisdom",
+    "era": "20th Century",
+    "themes": ["Resilience", "Inner Strength", "Light in Darkness"]
+  },
+  {
+    "id": 58,
+    "quote": "Whatever you nourish in your mind, that will grow.",
+    "author": "Buddha",
+    "tradition": "Buddhism",
+    "era": "5th Century BCE",
+    "themes": ["Mindfulness", "Intention", "Attraction"]
+  },
+  {
+    "id": 59,
+    "quote": "Dance, when you're broken open. Dance, if you've torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you're perfectly free.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Ecstasy", "Surrender", "Transformation"]
+  },
+  {
+    "id": 60,
+    "quote": "To a mind that is still, the whole universe surrenders.",
+    "author": "Lao Tzu",
+    "tradition": "Taoism",
+    "era": "6th Century BCE",
+    "themes": ["Stillness", "Mastery", "Surrender"]
+  },
+  {
+    "id": 61,
+    "quote": "The wound is not the end of the story. It is the location of the genesis.",
+    "author": "Clarissa Pinkola Estés",
+    "tradition": "Modern Archetypal Mysticism",
+    "era": "20th Century",
+    "themes": ["Rebirth", "Shadow Work", "Genesis"]
+  },
+  {
+    "id": 62,
+    "quote": "Set your life on fire. Seek those who fan your flames.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Passion", "Community", "Transformation"]
+  },
+  {
+    "id": 63,
+    "quote": "The drop dies in the river, but lives in the ocean.",
+    "author": "Kabir",
+    "tradition": "Bhakti / Indian Mysticism",
+    "era": "15th Century",
+    "themes": ["Dissolution", "Non-Duality", "Eternity"]
+  },
+  {
+    "id": 64,
+    "quote": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+    "author": "Carl Jung",
+    "tradition": "Modern Transpersonal Mysticism",
+    "era": "20th Century",
+    "themes": ["Shadow Work", "Awareness", "Fate"]
+  },
+  {
+    "id": 65,
+    "quote": "God slumbers in the stone, breathes in the plant, dreams in the animal, and awakens in man.",
+    "author": "Sufi Wisdom / Eastern Esoterica",
+    "tradition": "Sufism",
+    "era": "Traditional",
+    "themes": ["Evolution of Consciousness", "Immanence", "Awakening"]
+  },
+  {
+    "id": 66,
+    "quote": "Be a lamp unto yourselves. Hold fast to the truth as a lamp.",
+    "author": "Mahaparinibbana Sutta",
+    "tradition": "Buddhism",
+    "era": "Ancient",
+    "themes": ["Sovereignty", "Inner Light", "Truth"]
+  },
+  {
+    "id": 67,
+    "quote": "The soul is healed by being with children, nature, and silence.",
+    "author": "Traditional Mystic Axiom",
+    "tradition": "Western Esoterica",
+    "era": "Traditional",
+    "themes": ["Healing", "Nature", "Innocence"]
+  },
+  {
+    "id": 68,
+    "quote": "I am the vine, you are the branches.",
+    "author": "Gospel of John 15:5",
+    "tradition": "Christian Mysticism",
+    "era": "1st Century",
+    "themes": ["Interconnection", "Divine Flow", "Unity"]
+  },
+  {
+    "id": 69,
+    "quote": "Do not look for the sanctuary in the distance. The sanctuary is inside your own skin.",
+    "author": "Hafiz",
+    "tradition": "Sufism",
+    "era": "14th Century",
+    "themes": ["Inner Realm", "Sacred Temple", "Presence"]
+  },
+  {
+    "id": 70,
+    "quote": "What is behind us and what is before us are tiny matters compared to what is within us.",
+    "author": "Ralph Waldo Emerson",
+    "tradition": "Transcendentalism",
+    "era": "19th Century",
+    "themes": ["Inner Depth", "Sovereignty", "Spirit"]
+  },
+  {
+    "id": 71,
+    "quote": "The seeker is the sought.",
+    "author": "Ramana Maharshi",
+    "tradition": "Advaita Vedanta",
+    "era": "20th Century",
+    "themes": ["Non-Duality", "Self-Inquiry", "Completion"]
+  },
+  {
+    "id": 72,
+    "quote": "Silence is the great teacher, and to learn its lessons you must pay attention to it.",
+    "author": "Deepak Chopra",
+    "tradition": "Modern Wisdom",
+    "era": "20th Century",
+    "themes": ["Silence", "Listening", "Awareness"]
+  },
+  {
+    "id": 73,
+    "quote": "He who looks in a mirror sees his own face; he who looks into the Spirit sees the Divine.",
+    "author": "Pseudo-Dionysius",
+    "tradition": "Christian Mysticism",
+    "era": "5th Century",
+    "themes": ["Divine Vision", "Perception", "Transcendence"]
+  },
+  {
+    "id": 74,
+    "quote": "When the mind is free from longing, the world is filled with light.",
+    "author": "Ashtavakra Gita",
+    "tradition": "Advaita Vedanta",
+    "era": "Ancient",
+    "themes": ["Desirelessness", "Liberation", "Illumination"]
+  },
+  {
+    "id": 75,
+    "quote": "There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Inner Light", "Divine Longing", "Potential"]
+  },
+  {
+    "id": 76,
+    "quote": "You must have chaos within you to give birth to a dancing star.",
+    "author": "Friedrich Nietzsche",
+    "tradition": "Philosophical Mysticism",
+    "era": "19th Century",
+    "themes": ["Creation", "Chaos", "Transformation"]
+  },
+  {
+    "id": 77,
+    "quote": "The way out is through.",
+    "author": "Robert Frost / Archetypal Axiom",
+    "tradition": "Modern Mythic",
+    "era": "20th Century",
+    "themes": ["Descent", "Persistence", "Passage"]
+  },
+  {
+    "id": 78,
+    "quote": "Listen to the reeds as they tell their story, complaining of separation.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Longing", "Separation", "Divine Origin"]
+  },
+  {
+    "id": 79,
+    "quote": "Where there is love, there is no fear. Perfect love casts out fear.",
+    "author": "1 John 4:18",
+    "tradition": "Christian Mysticism",
+    "era": "1st Century",
+    "themes": ["Love", "Courage", "Transcendence"]
+  },
+  {
+    "id": 80,
+    "quote": "Form is emptiness, emptiness is form.",
+    "author": "Heart Sutra",
+    "tradition": "Mahayana Buddhism",
+    "era": "1st Century BCE",
+    "themes": ["Emptiness", "Paradox", "Non-Duality"]
+  },
+  {
+    "id": 81,
+    "quote": "Wear your heart on your sleeve until your sleeve turns into a wing.",
+    "author": "Sufi Poetic Saying",
+    "tradition": "Sufism",
+    "era": "Traditional",
+    "themes": ["Vulnerability", "Flight", "Transmutation"]
+  },
+  {
+    "id": 82,
+    "quote": "The core of your absolute being is perfection.",
+    "author": "Sri Nisargadatta Maharaj",
+    "tradition": "Advaita Vedanta",
+    "era": "20th Century",
+    "themes": ["The Self", "Perfection", "Absolute"]
+  },
+  {
+    "id": 83,
+    "quote": "Look at a tree, a flower, a plant. Let your awareness rest upon it. How still they are, how deeply rooted in Being.",
+    "author": "Eckhart Tolle",
+    "tradition": "Modern Transpersonal Mysticism",
+    "era": "21st Century",
+    "themes": ["Presence", "Nature", "Stillness"]
+  },
+  {
+    "id": 84,
+    "quote": "I am that I am.",
+    "author": "Book of Exodus 3:14",
+    "tradition": "Judeo-Christian Mysticism",
+    "era": "Ancient",
+    "themes": ["I AM Consciousness", "Being", "Divine Identity"]
+  },
+  {
+    "id": 85,
+    "quote": "Out of silence comes the word, and out of darkness comes the light.",
+    "author": "Hermetic Proverb",
+    "tradition": "Hermeticism",
+    "era": "Ancient",
+    "themes": ["Genesis", "Polarity", "Creation"]
+  },
+  {
+    "id": 86,
+    "quote": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Love", "Unlocking", "Inner Obstacles"]
+  },
+  {
+    "id": 87,
+    "quote": "Shadow is the prison tower where the dear lover is kept.",
+    "author": "Clarissa Pinkola Estés",
+    "tradition": "Modern Archetypal Mysticism",
+    "era": "20th Century",
+    "themes": ["Shadow Work", "Integration", "Hidden Value"]
+  },
+  {
+    "id": 88,
+    "quote": "The root of all growth is in the unseen dark.",
+    "author": "Mystic Proverb",
+    "tradition": "Dark Botanical Gnosticism",
+    "era": "Traditional",
+    "themes": ["The Unseen", "Growth", "The Underground"]
+  },
+  {
+    "id": 89,
+    "quote": "That which you hold, holds you.",
+    "author": "Gnostic Saying",
+    "tradition": "Gnosticism",
+    "era": "2nd Century",
+    "themes": ["Attachment", "Freedom", "Mirror of Reality"]
+  },
+  {
+    "id": 90,
+    "quote": "Wisdom tells me I am nothing. Love tells me I am everything. Between the two, my life flows.",
+    "author": "Nisargadatta Maharaj",
+    "tradition": "Advaita Vedanta",
+    "era": "20th Century",
+    "themes": ["Paradox", "Love", "Wisdom"]
+  },
+  {
+    "id": 91,
+    "quote": "Patience is not sitting and waiting, it is foreseeing. It is looking at the thorn and seeing the rose.",
+    "author": "Rumi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Vision", "Patience", "Transmutation"]
+  },
+  {
+    "id": 92,
+    "quote": "The soul knows how to heal itself. The challenge is to silence the mind.",
+    "author": "Traditional Wisdom",
+    "tradition": "Esoteric Healing",
+    "era": "Traditional",
+    "themes": ["Healing", "Silence", "Intuition"]
+  },
+  {
+    "id": 93,
+    "quote": "When you drink water, remember the spring.",
+    "author": "Yin Hui / Taoist Proverb",
+    "tradition": "Taoism",
+    "era": "Ancient",
+    "themes": ["Origin", "Gratitude", "Connection"]
+  },
+  {
+    "id": 94,
+    "quote": "In every moment the universe is recreating itself anew.",
+    "author": "Ibn Arabi",
+    "tradition": "Sufism",
+    "era": "13th Century",
+    "themes": ["Perpetual Creation", "Now", "Impermanence"]
+  },
+  {
+    "id": 95,
+    "quote": "I am non-existent in my self, yet alive in the Eternal.",
+    "author": "Rabia al-Adawiyya",
+    "tradition": "Sufism",
+    "era": "8th Century",
+    "themes": ["Devotion", "Surrender", "Eternity"]
+  },
+  {
+    "id": 96,
+    "quote": "Be grounded like the stone, yet fluid like the river.",
+    "author": "Hermetic Practice Maxim",
+    "tradition": "Hermeticism",
+    "era": "Traditional",
+    "themes": ["Balance", "Elements", "Equanimity"]
+  },
+  {
+    "id": 97,
+    "quote": "The mystery does not reveal itself to the curious, but to the surrendered.",
+    "author": "Sufi Teaching",
+    "tradition": "Sufism",
+    "era": "Traditional",
+    "themes": ["Surrender", "Initiation", "Mystery"]
+  },
+  {
+    "id": 98,
+    "quote": "To find yourself, you must lose yourself.",
+    "author": "Gospel Parallel / Mystic Proverb",
+    "tradition": "Universal Mysticism",
+    "era": "Traditional",
+    "themes": ["Ego-Death", "Paradox", "Self-Realization"]
+  },
+  {
+    "id": 99,
+    "quote": "Darkness is but the shadow of your own cloak turned toward the light.",
+    "author": "Kahlil Gibran",
+    "tradition": "Modern Eastern Esoterica",
+    "era": "20th Century",
+    "themes": ["Illusion", "Shadow Work", "Perspective"]
+  },
+  {
+    "id": 100,
+    "quote": "You are the door, you are the key, you are the threshold.",
+    "author": "Hermetic Axiom",
+    "tradition": "Hermeticism",
+    "era": "Ancient",
+    "themes": ["Thresholds", "Sovereignty", "Self-Realization"]
   }
 ]
 
